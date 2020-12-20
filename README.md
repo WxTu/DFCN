@@ -14,7 +14,7 @@ Accepted by AAAI2021.<br>
 ### [License](https://raw.githubusercontent.com/nvlabs/SPADE/master/LICENSE.md)
 
 All rights reserved.
-Licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) 
+Licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0). 
 
 The code is released for academic research use only. For commercial use, please contact [wenxuantu@163.com].
 
@@ -78,5 +78,5 @@ J. Xie, R. Girshick, and A. Farhadi. Unsupervised Deep Embedding for Clustering 
 --[https://github.com/vlukiyanov/pt-dec](https://github.com/vlukiyanov/pt-dec)
 
 X. Guo, L. Gao, X. Liu, et al. Improved Deep Embedded Clustering with Local Structure Preservation. In IJCAI, 2017.<br/>
---[https://github.com/XifengGuo/IDEC](https://github.com/XifengGuo/IDEC))
+--[https://github.com/XifengGuo/IDEC](https://github.com/XifengGuo/IDEC)
 
