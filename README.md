@@ -78,5 +78,5 @@ J. Xie, R. Girshick, and A. Farhadi. Unsupervised Deep Embedding for Clustering 
 --[https://github.com/vlukiyanov/pt-dec](https://github.com/vlukiyanov/pt-dec)
 
 X. Guo, L. Gao, X. Liu, et al. Improved Deep Embedded Clustering with Local Structure Preservation. In IJCAI, 2017.<br/>
---[ttps://github.com/XifengGuo/IDEC](https://github.com/XifengGuo/IDEC))
+--[https://github.com/XifengGuo/IDEC](https://github.com/XifengGuo/IDEC))
 
