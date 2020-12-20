@@ -41,16 +41,13 @@ We use [Cityscapes](https://www.cityscapes-dataset.com/), [Camvid](http://mi.eng
 Our backbone network is pre-trained on the ImageNet dataset provided by [F. Li et al](http://www.image-net.org/). You can download publically available pre-trained MobileNet v2 from this [website](https://github.com/ansleliu/LightNet).
 
 ## Code Structure
-- `data/Dataset.py`: processes the dataset before passing to the network.
-- `model/CIFReNet.py`: defines the architecture of the whole model.
-- `model/Backbone.py`: defines the encoder.
-- `model/Layers.py`: defines the DSP, MCIM, and others.
-- `utils/Config.py`: defines some hyper-parameters.
-- `utils/Process.py`: defines the process of data pretreatment.
-- `utils/Utils.py`: defines the loss, optimization, metrics, and others.
-- `utils/Visualization.py`: defines the data visualization.
-- `Train.py`: the entry point for training and validation.
-- `Test.py`: the entry point for testing.
+- `load_data.py`: processes the dataset before passing to the network.
+- `DFCN.py`: defines the architecture of the whole model.
+- `IGAE.py`: defines the improved graph autoencoder.
+- `AE.py`: defines the autoencoder.
+- `opt.py`: defines some hyper-parameters.
+- `utilspy`: defines the lr-policy, metrics, and others.
+- `Train.py`: the entry point for training and testing.
 
 <span id="jump2"></span>
 
