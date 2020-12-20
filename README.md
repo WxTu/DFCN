@@ -1,6 +1,6 @@
 ## DFCN
 <span id="jump1"></span>
-<img src="./figure/1.jpg" width="530" height="300" alt="DFCN" align=center /><br/>
+<img src="./figure/1.jpg" width="530" height="300" alt="DFCN" /><br/>
 
 
 ###  [Paper](https://arxiv.org/pdf/2012.09600.pdf)
