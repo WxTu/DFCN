@@ -1,8 +1,6 @@
 ## Paper
 
-### [DFCN](https://arxiv.org/pdf/2012.09600.pdf)
-
-Deep Fusion Clustering Network.<br>
+### [Deep Fusion Clustering Network](https://arxiv.org/pdf/2012.09600.pdf)
 
 [Wenxuan Tu](https://github.com/WxTu/DFCN/), Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, Jieren Cheng.<br>
 
