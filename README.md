@@ -2,7 +2,7 @@
 
 [Deep Fusion Clustering Network](https://arxiv.org/pdf/2012.09600.pdf)
 
-Wenxuan Tu, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng.<br>
+W. Tu, S. Zhou, X. Liu, X. Guo, Z. Cai, E. zhu, and J. Cheng.<br>
 
 Accepted by AAAI2021.<br>
 
