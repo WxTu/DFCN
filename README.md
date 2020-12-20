@@ -1,6 +1,6 @@
 ## DFCN
 <span id="jump1"></span>
-![CIFReNet Show](./CIFReNet.jpg)
+![DFCN Show](./figure/1.jpg)
 
 ###  [Paper](https://arxiv.org/pdf/2012.09600.pdf)
 
