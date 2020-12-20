@@ -39,7 +39,7 @@ Here we provide an implementation of Deep Fusion Clustering Network (DFCN) in Py
 - `AE.py`: defines the autoencoder.
 - `opt.py`: defines some hyper-parameters.
 - `utils.py`: defines the lr-policy, metrics, and others.
-- `Train.py`: the entry point for training and testing.
+- `train.py`: the entry point for training and testing.
 
 Finally, `main.py` puts all of the above together and may be used to execute a full training run on DBLP.
 
