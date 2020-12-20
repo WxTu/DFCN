@@ -23,7 +23,7 @@ git clone https://github.com/WxTu/DFCN.git
 
 * Windows or Linux
 * Python3
-* [Pytorch (1.2+)](https://pytorch.org/)
+* [Pytorch (1.2.0+)](https://pytorch.org/)
 * Numpy
 * Sklearn
 * Torchvision
