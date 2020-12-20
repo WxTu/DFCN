@@ -53,7 +53,7 @@ Finally, `main.py` puts all of the above together and may be used to execute a f
 
 Any discussions or concerns are welcomed!
 
-## Citation
+## Citation & License
 If you use this code for your research, please cite our papers.
 ```
 @inproceedings{TuDeep,
@@ -63,8 +63,6 @@ If you use this code for your research, please cite our papers.
   year={2020}
 }
 ```
-
-## [License](https://raw.githubusercontent.com/nvlabs/SPADE/master/LICENSE.md)
 
 All rights reserved.
 Licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0). 
