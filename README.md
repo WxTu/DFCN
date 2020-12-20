@@ -54,7 +54,7 @@ Finally, `main.py` puts all of the above together and may be used to execute a f
 Any discussions or concerns are welcomed!
 
 ## Citation & License
-If you use this code for your research, please cite our papers.
+If you use this code for your research, please cite our paper.
 ```
 @inproceedings{TuDeep,
   title={Deep Fusion Clustering Network},
