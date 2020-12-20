@@ -71,9 +71,11 @@ If you use this code for your research, please cite our papers.
 ```
 ## Acknowledgement
 
-D. Bo, X. Wang, C. Shi, et al. [Structural Deep Clustering Network](https://arxiv.org/abs/2002.01633). In WWW, 2020. ([https://github.com/bdy9527/SDCN](https://github.com/bdy9527/SDCN))
+D. Bo, X. Wang, C. Shi, et al. [Structural Deep Clustering Network](https://arxiv.org/abs/2002.01633). In WWW, 2020.<br/> 
+([https://github.com/bdy9527/SDCN](https://github.com/bdy9527/SDCN))
 
-J. Xie, R. Girshick, and A. Farhadi. [Unsupervised Deep Embedding for Clustering Analysis](https://arxiv.org/abs/1511.06335). In ICML, 2016. ([https://github.com/vlukiyanov/pt-dec](https://github.com/vlukiyanov/pt-dec))
+J. Xie, R. Girshick, and A. Farhadi. [Unsupervised Deep Embedding for Clustering Analysis](https://arxiv.org/abs/1511.06335). In ICML, 2016.<br/>
+([https://github.com/vlukiyanov/pt-dec](https://github.com/vlukiyanov/pt-dec))
 
-X. Guo, L. Gao, X. Liu, et al. [Improved Deep Embedded Clustering with Local Structure Preservation](https://www.ijcai.org/Proceedings/2017/243). In IJCAI, 2017. ([ttps://github.com/XifengGuo/IDEC](https://github.com/XifengGuo/IDEC))
+X. Guo, L. Gao, X. Liu, et al. [Improved Deep Embedded Clustering with Local Structure Preservation](https://www.ijcai.org/Proceedings/2017/243). In IJCAI, 2017.<br/>([ttps://github.com/XifengGuo/IDEC](https://github.com/XifengGuo/IDEC))
 
