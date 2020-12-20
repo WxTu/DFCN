@@ -1,9 +1,6 @@
-## DFCN
-<span id="jump1"></span>
-<img src="./figure/1.jpg" width="530" height="300" alt="DFCN" /><br/>
+## Paper
 
-
-###  [Paper](https://arxiv.org/pdf/2012.09600.pdf)
+### [DFCN](https://arxiv.org/pdf/2012.09600.pdf)
 
 Deep Fusion Clustering Network.<br>
 
