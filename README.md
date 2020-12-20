@@ -37,9 +37,7 @@ git clone https://github.com/WxTu/DFCN.git
 
 ## Preparation
 
-We use [Cityscapes](https://www.cityscapes-dataset.com/), [Camvid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/) and [Helen](http://www.f-zhou.com/fa_code.html) datasets. To train a model on these datasets, download datasets from official websites.
-
-Our backbone network is pre-trained on the ImageNet dataset provided by [F. Li et al](http://www.image-net.org/). You can download publically available pre-trained MobileNet v2 from this [website](https://github.com/ansleliu/LightNet).
+We adopt six datasets in total, including three graph datasets (ACM, DBLP, and CITE) and three non-graph datasets (USPS, HHAR, and REUT). To train a model on these datasets, download datasets from [SDCN](https://github.com/bdy9527/SDCN) or Baidu [Baidu Cloud](https://github.com/bdy9527/SDCN).
 
 ## Code Structure
 - `load_data.py`: processes the dataset before passing to the network.
