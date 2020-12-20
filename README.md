@@ -31,7 +31,7 @@ We adopt six datasets in total, including three graph datasets (ACM, DBLP, and C
 
 ## Code Structure & Usage
 
-Here we provide an implementation of Deep Fusion Clustering Network (DFCN) in PyTorch, along with a execution example (on the DBLP dataset). The repository is organised as follows:
+Here we provide an implementation of Deep Fusion Clustering Network (DFCN) in PyTorch, along with an execution example (on the DBLP dataset). The repository is organised as follows:
 
 - `load_data.py`: processes the dataset before passing to the network.
 - `DFCN.py`: defines the architecture of the whole network.
