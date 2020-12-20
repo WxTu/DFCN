@@ -74,9 +74,8 @@ The code is released for academic research use only. For commercial use, please 
 D. Bo, X. Wang, C. Shi, et al. Structural Deep Clustering Network. In WWW, 2020.<br/> 
 --[https://github.com/bdy9527/SDCN](https://github.com/bdy9527/SDCN)
 
-J. Xie, R. Girshick, and A. Farhadi. Unsupervised Deep Embedding for Clustering Analysis. In ICML, 2016.<br/>
---[https://github.com/vlukiyanov/pt-dec](https://github.com/vlukiyanov/pt-dec)
-
 X. Guo, L. Gao, X. Liu, et al. Improved Deep Embedded Clustering with Local Structure Preservation. In IJCAI, 2017.<br/>
 --[https://github.com/XifengGuo/IDEC](https://github.com/XifengGuo/IDEC)
 
+J. Xie, R. Girshick, and A. Farhadi. Unsupervised Deep Embedding for Clustering Analysis. In ICML, 2016.<br/>
+--[https://github.com/vlukiyanov/pt-dec](https://github.com/vlukiyanov/pt-dec)
