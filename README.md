@@ -30,6 +30,7 @@ git clone https://github.com/WxTu/DFCN.git
 * Python3
 * [Pytorch(1.2+)](https://pytorch.org/)
 * Numpy
+* Sklearn
 * Torchvision
 * Matplotlib
 
@@ -72,13 +73,9 @@ If you use this code for your research, please cite our papers.
 ```
 ## Acknowledgement
 
-[https://github.com/ansleliu/LightNet](https://github.com/ansleliu/LightNet)
+[https://github.com/bdy9527/SDCN](https://github.com/bdy9527/SDCN)
 
-[https://github.com/meetshah1995/pytorch-semseg](https://github.com/meetshah1995/pytorch-semseg)
+[https://github.com/vlukiyanov/pt-dec](https://github.com/vlukiyanov/pt-dec)
 
-[https://github.com/zijundeng/pytorch-semantic-segmentation](https://github.com/zijundeng/pytorch-semantic-segmentation)
-
-[https://github.com/Tramac/awesome-semantic-segmentation-pytorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch)
-
-
+[https://github.com/XifengGuo/IDEC](https://github.com/XifengGuo/IDEC)
 
