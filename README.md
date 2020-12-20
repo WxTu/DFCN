@@ -45,7 +45,7 @@ We adopt six datasets in total, including three graph datasets (ACM, DBLP, and C
 - `IGAE.py`: defines the improved graph autoencoder.
 - `AE.py`: defines the autoencoder.
 - `opt.py`: defines some hyper-parameters.
-- `utilspy`: defines the lr-policy, metrics, and others.
+- `utils.py`: defines the lr-policy, metrics, and others.
 - `Train.py`: the entry point for training and testing.
 - `main.py`: you could run it directly.
 
