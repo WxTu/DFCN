@@ -16,7 +16,7 @@ Clone this repo.
 git clone https://github.com/WxTu/DFCN.git
 ```
 
-* Windows or Linux
+* Windows 10 or Linux 18.04
 * Python 3.7.5
 * [Pytorch (1.2.0+)](https://pytorch.org/)
 * Numpy 1.18.0
