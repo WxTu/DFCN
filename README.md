@@ -55,7 +55,7 @@ Our backbone network is pre-trained on the ImageNet dataset provided by [F. Li e
 <span id="jump2"></span>
 
 ## Visualization
-![Visual Show](./visual.jpg)
+![Visual Show](./figure/visual.jpg)
 
 ## Contact
 [wenxuantu@163.com](wenxuantu@163.com)
