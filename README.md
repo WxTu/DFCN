@@ -73,7 +73,7 @@ If you use this code for your research, please cite our papers.
 ```
 ## Acknowledgement
 
-[Structural Deep Clustering Network](https://arxiv.org/abs/2002.01633) ([https://github.com/bdy9527/SDCN](https://github.com/bdy9527/SDCN))
+D. Bo, X. Wang, C. Shi, et al. [Structural Deep Clustering Network](https://arxiv.org/abs/2002.01633). In WWW, 2020, ([https://github.com/bdy9527/SDCN](https://github.com/bdy9527/SDCN))
 
 [https://github.com/vlukiyanov/pt-dec](https://github.com/vlukiyanov/pt-dec)
 
