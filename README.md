@@ -1,17 +1,12 @@
 ## Paper
 
-### [Deep Fusion Clustering Network](https://arxiv.org/pdf/2012.09600.pdf)
+[Deep Fusion Clustering Network](https://arxiv.org/pdf/2012.09600.pdf)
 
 Wenxuan Tu, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, Jieren Cheng.<br>
 
 Accepted by AAAI2021.<br>
 
-### [License](https://raw.githubusercontent.com/nvlabs/SPADE/master/LICENSE.md)
 
-All rights reserved.
-Licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0). 
-
-The code is released for academic research use only. For commercial use, please contact [wenxuantu@163.com].
 
 
 ## Installation
@@ -68,6 +63,14 @@ If you use this code for your research, please cite our papers.
   year={2020}
 }
 ```
+
+## [License](https://raw.githubusercontent.com/nvlabs/SPADE/master/LICENSE.md)
+
+All rights reserved.
+Licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0). 
+
+The code is released for academic research use only. For commercial use, please contact [wenxuantu@163.com].
+
 ## Acknowledgement
 
 D. Bo, X. Wang, C. Shi, et al. Structural Deep Clustering Network. In WWW, 2020.<br/> 
