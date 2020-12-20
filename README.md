@@ -46,7 +46,7 @@ Here we provide an implementation of Deep Fusion Clustering Network (DFCN) in Py
 - `utils.py`: defines the lr-policy, metrics, and others.
 - `Train.py`: the entry point for training and testing.
 
-Finally, main.py puts all of the above together and may be used to execute a full training run on DBLP.
+Finally, `main.py` puts all of the above together and may be used to execute a full training run on DBLP.
 
 <span id="jump2"></span>
 
