@@ -48,6 +48,7 @@ Our backbone network is pre-trained on the ImageNet dataset provided by [F. Li e
 - `opt.py`: defines some hyper-parameters.
 - `utilspy`: defines the lr-policy, metrics, and others.
 - `Train.py`: the entry point for training and testing.
+- `main.py`: you could run it directly.
 
 <span id="jump2"></span>
 
