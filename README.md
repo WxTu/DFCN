@@ -47,7 +47,7 @@ We adopt six datasets in total, including three graph datasets (ACM, DBLP, and C
 <span id="jump2"></span>
 
 ## Visualization
-<div align=center><img width="800" height="300" src="./figure/2.jpg"/></div>
+<div align=center><img width="800" height="330" src="./figure/2.jpg"/></div>
 
 ## Contact
 [wenxuantu@163.com](wenxuantu@163.com)
