@@ -41,7 +41,7 @@ We adopt six datasets in total, including three graph datasets (ACM, DBLP, and C
 
 ## Code Structure
 - `load_data.py`: processes the dataset before passing to the network.
-- `DFCN.py`: defines the architecture of the whole model.
+- `DFCN.py`: defines the architecture of the whole network.
 - `IGAE.py`: defines the improved graph autoencoder.
 - `AE.py`: defines the autoencoder.
 - `opt.py`: defines some hyper-parameters.
