@@ -1,6 +1,6 @@
 ## Paper
 
-[Deep Fusion Clustering Network](https://arxiv.org/pdf/2012.09600.pdf)
+Source code for the paper "[Deep Fusion Clustering Network](https://arxiv.org/pdf/2012.09600.pdf)"<br>
 
 W. Tu, S. Zhou, X. Liu, X. Guo, Z. Cai, E. zhu, and J. Cheng.<br>
 
@@ -58,9 +58,9 @@ If you use this code for your research, please cite our paper.
 ```
 @inproceedings{TuDeep,
   title={Deep Fusion Clustering Network},
-  author={Wenxuan Tu, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, Jieren Cheng},
+  author={Wenxuan Tu, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng},
   booktitle={https://arxiv.org/abs/2012.09600},
-  year={2020}
+  year={2021}
 }
 ```
 
