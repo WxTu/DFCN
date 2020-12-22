@@ -58,8 +58,8 @@ If you use this code for your research, please cite our paper.
 ```
 @inproceedings{TuDeep,
   title={Deep Fusion Clustering Network},
-  author={Wenxuan Tu, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng},
-  booktitle={https://arxiv.org/abs/2012.09600},
+  author={Tu, Wenxuan and Zhou, Sihang and Liu, Xinwang and Guo, Xifeng and Cai, Zhiping and zhu, En and Cheng, Jieren},
+  booktitle={The Thirty-Fifth AAAI Conference on Artificial Intelligence},
   year={2021}
 }
 ```
