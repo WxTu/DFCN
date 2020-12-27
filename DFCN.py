@@ -34,7 +34,7 @@ class DFCN(nn.Module):
             gae_n_dec_3=gae_n_dec_3,
             n_input=n_input)
 
-        self.a = nn.Parameter(torch.FloatTensor(n_node, n_z), requires_grad=True).data.fill_(0.5).to(device)
+        self.a = nn.Parameter(nn.init.constant_(torch.zeros(n_node, n_z), 0.5), requires_grad=True).to(device)
         self.b = 1 - self.a
 
         self.cluster_layer = nn.Parameter(torch.Tensor(n_clusters, n_z), requires_grad=True)
