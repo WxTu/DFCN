@@ -8,6 +8,10 @@
 
 
 ## Paper
+[![Made with Python][python-img]][adgc-url]
+[![GitHub stars][stars-img]][stars-url]
+[![GitHub forks][fork-img]][fork-url]
+[![visitors][visitors-img]][adgc-url]
 
 Source code for the paper "Deep Fusion Clustering Network"<br>
 
@@ -15,10 +19,7 @@ W. Tu, S. Zhou, X. Liu, X. Guo, Z. Cai, E. zhu, and J. Cheng.<br>
 
 Accepted by AAAI2021. [[Paper]](https://arxiv.org/pdf/2012.09600.pdf) [[Poster]](./figure/DFCN_Poster.pdf) <br>
 
-[![Made with Python][python-img]][adgc-url]
-[![GitHub stars][stars-img]][stars-url]
-[![GitHub forks][fork-img]][fork-url]
-[![visitors][visitors-img]][adgc-url]
+
 
 ## Installation
 
