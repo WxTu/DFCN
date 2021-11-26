@@ -1,3 +1,12 @@
+[python-img]: https://img.shields.io/github/languages/top/WxTu/DFCN?color=lightgrey
+[stars-img]: https://img.shields.io/github/stars/WxTu/DFCN?color=yellow
+[stars-url]: https://github.com/WxTu/DFCN/stargazers
+[fork-img]: https://img.shields.io/github/forks/WxTu/DFCN?color=lightblue&label=fork
+[fork-url]: https://github.com/WxTu/DFCN/network/members
+[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=WxTu/DFCN
+[adgc-url]: https://github.com/WxTu/DFCN
+
+
 ## Paper
 
 Source code for the paper "Deep Fusion Clustering Network"<br>
