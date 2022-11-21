@@ -68,10 +68,11 @@ Any discussions or concerns are welcomed!
 ## Citation & License
 If you use this code for your research, please cite our paper.
 ```
-@inproceedings{TuDeep,
+@inproceedings{DFCN2021,
   title={Deep Fusion Clustering Network},
   author={Tu, Wenxuan and Zhou, Sihang and Liu, Xinwang and Guo, Xifeng and Cai, Zhiping and zhu, En and Cheng, Jieren},
-  booktitle={The Thirty-Fifth AAAI Conference on Artificial Intelligence},
+  booktitle={Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence},
+  pages={9978-9987},
   year={2021}
 }
 ```
