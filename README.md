@@ -15,7 +15,7 @@
 
 Source code for the paper "Deep Fusion Clustering Network"<br>
 
-W. Tu, S. Zhou, X. Liu, X. Guo, Z. Cai, E. zhu, and J. Cheng.<br>
+W. Tu, S. Zhou, X. Liu, X. Guo, Z. Cai, E. hu, and J. Cheng.<br>
 
 Accepted by AAAI2021. [[Paper]](https://arxiv.org/pdf/2012.09600.pdf) [[Poster]](./figure/DFCN_Poster.pdf) <br>
 
@@ -70,8 +70,8 @@ If you use this code for your research, please cite our paper.
 ```
 @inproceedings{DFCN2021,
   title={Deep Fusion Clustering Network},
-  author={Tu, Wenxuan and Zhou, Sihang and Liu, Xinwang and Guo, Xifeng and Cai, Zhiping and zhu, En and Cheng, Jieren},
-  booktitle={Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence},
+  author={Tu, Wenxuan and Zhou, Sihang and Liu, Xinwang and Guo, Xifeng and Cai, Zhiping and Zhu, En and Cheng, Jieren},
+  booktitle={Proceedings of The Thirty-Fifth AAAI Conference on Artificial Intelligence},
   pages={9978-9987},
   year={2021}
 }
