@@ -15,7 +15,7 @@
 
 Source code for the paper "Deep Fusion Clustering Network"<br>
 
-W. Tu, S. Zhou, X. Liu, X. Guo, Z. Cai, E. hu, and J. Cheng.<br>
+W. Tu, S. Zhou, X. Liu, X. Guo, Z. Cai, E. Zhu, and J. Cheng.<br>
 
 Accepted by AAAI2021. [[Paper]](https://arxiv.org/pdf/2012.09600.pdf) [[Poster]](./figure/DFCN_Poster.pdf) <br>
 
