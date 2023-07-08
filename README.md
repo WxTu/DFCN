@@ -39,7 +39,7 @@ git clone https://github.com/WxTu/DFCN.git
 
 ## Preparation
 
-We adopt six datasets in total, including three graph datasets (ACM, DBLP, and CITE) and three non-graph datasets (USPS, HHAR, and REUT). To train a model on these datasets, please download them from [Baidu Cloud](https://pan.baidu.com/s/1ykIPGLXLMtMqtgpXOq3_sQ) (access code: 4622) or [SDCN](https://github.com/bdy9527/SDCN).
+We adopt six datasets in total, including three graph datasets (ACM, DBLP, and CITE) and three non-graph datasets (USPS, HHAR, and REUT). To train a model on these datasets, please download them from [Baidu Cloud](https://pan.baidu.com/s/1ykIPGLXLMtMqtgpXOq3_sQ) (access code: 4622), and the demo files for model pre-training are provided in [Baidu Cloud](https://pan.baidu.com/s/1DgOUEQe7NpCqlO3gE27P6g) (access code: 4622).
 
 ## Code Structure & Usage
 
