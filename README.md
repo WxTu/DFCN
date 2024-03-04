@@ -70,7 +70,7 @@ If you use this code for your research, please cite our paper.
 ```
 @inproceedings{DFCN2021,
   title={Deep Fusion Clustering Network},
-  author={Tu, Wenxuan and Zhou, Sihang and Liu, Xinwang and Guo, Xifeng and Cai, Zhiping and Zhu, En and Cheng, Jieren},
+  author={Wenxuan Tu and Sihang Zhou and Xinwang Liu and Xifeng Guo and Zhiping Cai and En Zhu and Jieren Cheng},
   booktitle={Proceedings of The Thirty-Fifth AAAI Conference on Artificial Intelligence},
   pages={9978-9987},
   year={2021}
